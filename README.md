@@ -74,7 +74,7 @@ Use a clean color palette (blues, whites, greys, or pastel themes)
 
 
 4. Accessibility & Semantics
-Use semantic tags ("<nav>, <main>, <section>, <article>, <footer>")
+Use semantic tags (<div><nav>, <main>, <section>, <article>, <footer></div>)
 
 
 Ensure good color contrast and readable font sizes
@@ -85,4 +85,4 @@ Evaluation Criteria:
 Ensure all major sections like sidebar, header, progress cards, deadlines, and profile info are implemented as per the objectives.
 Use clean and consistent CSS styling including proper use of colors, fonts, spacing, and shadows for a modern UI feel.
 The layout should adapt well to different screen sizes (desktop, tablet, and mobile) using media queries or responsive units.
-Use appropriate semantic tags (like <nav>, <section>, <header>, <article>) and ensure the HTML is properly indented and structured.
+Use appropriate semantic tags (like <div> <nav>, <section>, <header>, <article> </div>) and ensure the HTML is properly indented and structured.
