@@ -74,7 +74,7 @@ Use a clean color palette (blues, whites, greys, or pastel themes)
 
 
 4. Accessibility & Semantics
-Use semantic tags (<nav>, <main>, <section>, <article>, <footer>)
+Use semantic tags ("<nav>, <main>, <section>, <article>, <footer>")
 
 
 Ensure good color contrast and readable font sizes
